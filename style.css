@@ -1,0 +1,114 @@
+/* styles.css */
+
+div {
+    background-color: grey;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    word-spacing: 90px;
+}
+
+
+p {
+    color: black;
+    background-color: gray;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 5px;
+    font-family: Tahoma, Verdana, sans-serif;
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border: 2px solid black;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+h1 {
+    background-color: gray;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h2 {
+    background-color: gray;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 5px;
+    text-decoration: underline;
+    font-family: Tahoma, Verdana, sans-serif;
+    width: 900px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+ol {
+    background-color: gray;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 5px;
+    font-family: Tahoma, Verdana, sans-serif;
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+ul{
+    background-color: gray;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 5px;
+    font-family: Tahoma, Verdana, sans-serif;
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h6 {
+    background-color: gray;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html {
+    background-color: peachpuff;
+}
+
+
